@@ -1,4 +1,5 @@
 
+var Promise = require('native-or-bluebird')
 var toArray = require('stream-to-array')
 var assert = require('assert')
 
