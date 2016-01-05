@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "stream-utils/promise-map-stream",
   "dependencies": {
-    "native-or-bluebird": "1",
+    "native-or-bluebird": "1.2.0",
     "readable-stream": "1"
   },
   "devDependencies": {
